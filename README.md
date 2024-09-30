@@ -16,8 +16,9 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+learn basic programming skills
 4. What, if anything, are you nervous about for this class?
-
+I had trouble using github in previous course with writing r code
 ## Prior Experience
 
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
