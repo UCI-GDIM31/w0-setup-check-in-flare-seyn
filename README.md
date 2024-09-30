@@ -12,7 +12,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [V] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
@@ -25,11 +25,11 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-
+0
 2. Game development (any engine)
-
+0
 3. Unity
-
+0
 ### Programming & Game Development Concepts
 
 For the next questions, a programming or game development concept is presented:
@@ -40,15 +40,15 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
-
+N/A
 2. Scope management
-
+N/A
 3. Iteration
-
+N/A
 4. Object-Oriented programming
-
+N/A
 5. Model-View-Controller architecture
-
+N/A
 ## Complete!
 
 You've completed your first homework assignment! Commit this file and push it to GitHub. You should be able to see that it's been submitted properly on the Github Classroom page or on your assignment repository.
